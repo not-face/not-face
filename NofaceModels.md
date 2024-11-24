@@ -1,6 +1,5 @@
 <html>
 	<body>
-		<title>Help</title>
 		<h1><b>Noface Models: </b></h1>
 		<p></p>
 		<h2>Being Updated: </h2>
