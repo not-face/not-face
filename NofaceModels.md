@@ -10,7 +10,7 @@
 		<p></p>
 		<h2>Final: </h2>
 		<p></p>
-		<p>Welder 1.0: </p> <a href="https://create.roblox.com/store/asset/94851004095541">Welder Link</a> <p></p>
+		<p>Welder 1.1: </p> <a href="https://create.roblox.com/store/asset/94851004095541">Welder Link</a> <p></p>
 		<p>Old Roblox Visuals 1.0: </p> <a href="https://create.roblox.com/store/asset/111870615799386">Old Roblox Visuals Link</a> <p></p>
 	</body>
 </html>
