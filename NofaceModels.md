@@ -12,7 +12,8 @@
 		<p></p>
 		<p>Welder 1.1: </p> <a href="https://create.roblox.com/store/asset/94851004095541">Welder Link</a> <p></p>
 		<p>Old Roblox Visuals 1.0: </p> <a href="https://create.roblox.com/store/asset/111870615799386">Old Roblox Visuals Link</a> <p></p>
-		<p>Camera Realism 1.0: </p> <a href="https://create.roblox.com/dashboard/creations/store/137023596880871/configure">Camera Realism Link</a>
+		<p>Camera Realism 1.0: </p> <a href="https://create.roblox.com/store/asset/137023596880871/Camera-Realism">Camera Realism Link</a>
+		<p>Noface Buffer 1.0: </p> <a href="https://create.roblox.com/store/asset/113720630950916/NofaceBuffer">Noface Buffer Link</a>
 	</body>
 </html>
 
